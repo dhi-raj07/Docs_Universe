@@ -74,7 +74,7 @@ transferred.
 - Blockchain: Ethereum
 - Smart Contract: Solidity ^0.8.0
 - Front-end: React Truffle Box + web3.js + Boostrap 
-- IPFS: ipfs-api + Infura
+- IPFS: ipfs-api + Quicknode
  
 ## Deployment
 
